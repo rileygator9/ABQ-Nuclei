@@ -1,4 +1,4 @@
-# Neighborhood Engagement & Metrics Map
+# Nuclei and Concentric Circles Map
 
 An interactive geospatial visualization tool built in Python to track nuclei and concentric circles.
 
@@ -21,3 +21,6 @@ This map provides a "bullseye" visualization of four key metrics across various 
 
 ## Data Source
 The visualization is powered by an csv-based dataset containing geographic coordinates and community metrics.
+
+## DIY
+The jupyter notebook, json, and csv files are available to dowload, edit, and use in your own circumstances.
