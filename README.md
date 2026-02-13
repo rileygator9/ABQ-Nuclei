@@ -17,10 +17,10 @@ This map provides a "bullseye" visualization of four key metrics across various 
 ## How to Read the Map
 * **Bullseye Rings:** Each color represents a different metric. The larger the ring, the higher the count for that metric in that specific neighborhood.
 * **Stacked Labels:** Look at the adjacent labels for precise counts. 
-* **N/A Values:** Where data was unavailable in the source csv file, the label displays "N/A" and no ring is drawn.
+* **N/A Values:** Where data were unavailable in the source csv file, the label displays "N/A" and no ring is drawn.
 
 ## Data Source
-The visualization is powered by an csv-based dataset containing geographic coordinates and community metrics.
+The visualization is powered by a csv-based dataset containing geographic coordinates and community metrics.
 
 ## DIY
 The jupyter notebook, json, and csv files are available to dowload, edit, and use in your own circumstances.
