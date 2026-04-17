@@ -7,7 +7,8 @@ This map provides a "bullseye" visualization of four key metrics across various 
 * **Population:** Total population count of community/nucleus.
 * **Conversation:** Number of community members engaged in the conversaion.
 * **Participating:** Number participating in core activities.
-* **Committed:** Number committed to the process.
+* **Protagonist:** Number making efforts to share with others.
+* **Facilitating:** Number of youth and adults facilitating activities.
 
 ## Built With
 * **Python** (Pandas, Folium, GeoPandas)
